@@ -1,0 +1,8 @@
+{
+  "name": "Ibeng",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "49efe72a"
+}
